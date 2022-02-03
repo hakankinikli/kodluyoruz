@@ -1,0 +1,26 @@
+center{
+    display: block;
+ 
+}
+
+.input{
+    background-color: gainsboro;
+    height: fit-content;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.sublink {
+    background-color:#d5f4e6;
+    margin: 5px 5px;
+    height: 100px;
+    width: 300px;
+    padding: 10px 10px;
+    text-align: center;
+    float: left;
+    clear: right  ;
+    position: relative;
+
+}
